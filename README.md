@@ -1,2 +1,2 @@
 # PROCESS
-The implement  for "A novel probabilistic clustering model for heterogeneous networks"
+The implementation  for "A novel probabilistic clustering model for heterogeneous networks"
